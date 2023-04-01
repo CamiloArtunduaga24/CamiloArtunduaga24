@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hola,👋 Soy Camilo Artunduaga</h1>
-    <h3 align="center">Actualmente soy desarrollador fullstack, trabajo mucho Angular 9+ y Ionic para dispositivos móviles y PWA</h3>
+    <h3 align="center">Actualmente soy Ingeniero de Sistemas, dedicado al mundo del desarrollo de Software, trabajo mucho Angular 9+ y Ionic para dispositivos móviles y PWA</h3>
 </div>
 
 ---
